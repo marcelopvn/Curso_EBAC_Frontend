@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 900px;
+    width: 100%;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.label-form{
+    margin-top: 20px;
+}
+
+.btn{
+    width: 80px;
+    margin-top: 30px;
+}
